@@ -1,6 +1,7 @@
 ### Hi there 👋 ![](https://visitor-badge.glitch.me/badge?page_id=likakuli.likakuli)
 
-![](https://github-readme-stats.vercel.app/api?username=likakuli&theme=buefy&show_icons=true)
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=likakuli&theme=buefy&show_icons=true)
+
 
 - 🔭 I’m currently working on multi-clusters in Kubernetes and projects in k-cloud-labs.
 - 🌱 Personal blog: https://www.likakuli.com & WeChat: IT散修
