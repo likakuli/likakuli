@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently working on multi-clusters in Kubernetes and projects in k-cloud-labs.
-- 🌱 Personal blog: https://www.likakuli.com & WeChat: IT散修
+- 🌱 Personal blog: https://www.likakuli.com & WeChat: 云原生散修
 - 📫 How to reach me: likakuli312@gmail.com 
 
 <!---
